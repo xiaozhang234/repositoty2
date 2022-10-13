@@ -1,4 +1,0 @@
-hello python
-山鸟与鱼不同路 再见容易再见难
-hello java
-你好世界
